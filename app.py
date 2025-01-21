@@ -41,7 +41,7 @@ def main():
         st.code(prompt, language="markdown")
 
     st.write(
-        "\nUse this prompt in tools like [Hugging Face Chat](https://huggingface.co/chat) or [ChatGPT](https://chat.openai.com/) or [Gemini](https://gemini.com/) for better outputs!")
+        "\nUse this prompt in tools like [Hugging Face Chat](https://huggingface.co/chat) or [ChatGPT](https://chat.openai.com/) or [Gemini](https://gemini.google.com/app) for better outputs!")
 
 
 if __name__ == "__main__":
